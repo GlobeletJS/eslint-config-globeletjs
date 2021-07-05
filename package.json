@@ -1,0 +1,27 @@
+{
+  "name": "eslint-config-globeletjs",
+  "version": "0.0.0",
+  "description": "A basic ESLint configuration for GlobeletJS modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx eslint index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GlobeletJS/eslint-globeletjs.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "globeletjs"
+  ],
+  "author": "Jeshurun Hembd",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GlobeletJS/eslint-globeletjs/issues"
+  },
+  "homepage": "https://github.com/GlobeletJS/eslint-globeletjs#readme",
+  "devDependencies": {
+    "eslint": "^7.30.0"
+  }
+}
