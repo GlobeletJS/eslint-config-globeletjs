@@ -1,10 +1,11 @@
 {
   "name": "eslint-config-globeletjs",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "A basic ESLint configuration for GlobeletJS modules",
   "main": "index.js",
   "scripts": {
-    "test": "npx eslint index.js"
+    "test": "npx eslint index.js",
+    "postversion": "git push && git push --tags"
   },
   "repository": {
     "type": "git",
