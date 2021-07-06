@@ -2,6 +2,8 @@
 
 A basic [ESLint](https://eslint.org) configuration for GlobeletJS modules
 
+![tests](https://github.com/GlobeletJS/eslint-config-globeletjs/actions/workflows/node.js.yml/badge.svg)
+
 ## Installation
 To use this configuration in your module, run:
 ```bash

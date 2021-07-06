@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GlobeletJS/eslint-globeletjs.git"
+    "url": "git+https://github.com/GlobeletJS/eslint-config-globeletjs.git"
   },
   "keywords": [
     "eslint",
@@ -19,9 +19,9 @@
   "author": "Jeshurun Hembd",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/GlobeletJS/eslint-globeletjs/issues"
+    "url": "https://github.com/GlobeletJS/eslint-config-globeletjs/issues"
   },
-  "homepage": "https://github.com/GlobeletJS/eslint-globeletjs#readme",
+  "homepage": "https://github.com/GlobeletJS/eslint-config-globeletjs#readme",
   "devDependencies": {
     "eslint": "^7.30.0"
   }
