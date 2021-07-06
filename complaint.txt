@@ -1,0 +1,2 @@
+// eslint doesn't allow exporting as an ES module ?!?!
+// eslint-disable-next-line no-undef

@@ -1,6 +1,4 @@
-// eslint doesn't allow exporting as an ES module ?!?!
-// eslint-disable-next-line no-undef
-module.exports = {
+{
   "env": {
     "browser": true,
     "es2021": true
@@ -27,4 +25,4 @@ module.exports = {
     "semi-spacing": "error",
     "space-before-blocks": ["error", "always"]
   }
-};
+}

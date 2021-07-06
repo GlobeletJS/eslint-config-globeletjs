@@ -4,8 +4,8 @@
   "description": "A basic ESLint configuration for GlobeletJS modules",
   "main": "index.js",
   "scripts": {
-    "test": "npx eslint index.js",
-    "postversion": "git push && git push --tags"
+    "test": "npx eslint -c config.json index.js",
+    "build": "bash build.sh"
   },
   "repository": {
     "type": "git",
