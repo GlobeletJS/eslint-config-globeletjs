@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-globeletjs",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A basic ESLint configuration for GlobeletJS modules",
   "main": "index.js",
   "scripts": {
