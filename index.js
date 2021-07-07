@@ -26,6 +26,7 @@ module.exports = {
     "no-trailing-spaces": "error",
     "semi-spacing": "error",
     "space-before-blocks": ["error", "always"],
-    "max-len": ["error", { "code": 80, "ignoreUrls": true }]
+    "max-len": ["error", { "code": 80, "ignoreUrls": true }],
+    "prefer-const": ["error", { "destructuring": "all" }]
   }
 };
